@@ -1,4 +1,5 @@
 # Things to talk about today
+* MOVE FASTER.
 * How to initialize a new repository
 * How to clone a repository
 * How add a collaborator to your repository
@@ -7,3 +8,4 @@
 * How to pull new changes from a remote repository
 * What to do when everything goes horribly disastrously wrong.
 * Explain things more clearly.
+* Explain things more quickly.
