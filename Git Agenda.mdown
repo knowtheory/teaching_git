@@ -1,0 +1,8 @@
+# Things to talk about today
+* How to initialize a new repository
+* How to clone a repository
+* How add a collaborator to your repository
+* How to commit to a local repository
+* How to push to a remote repository
+* How to pull new changes from a remote repository
+* What to do when everything goes horribly disastrously wrong.
