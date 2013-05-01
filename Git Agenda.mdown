@@ -7,3 +7,4 @@
 * How to pull new changes from a remote repository
 * What to do when everything goes horribly disastrously wrong.
 * Explain things more clearly.
+* Explain things more quickly.
